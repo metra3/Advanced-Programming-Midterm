@@ -1,0 +1,36 @@
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.Form1.resources
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.csproj.GenerateResource.cache
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.AssemblyInfoInputs.cache
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.AssemblyInfo.cs
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.csproj.CoreCompileInputs.cache
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.Properties.Resources.resources
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.exe
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.deps.json
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.runtimeconfig.json
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.dll
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.pdb
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.dll
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\refint\AraSinav.dll
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.pdb
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.genruntimeconfig.cache
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\ref\AraSinav.dll
+C:\Users\Metra3\Desktop\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.Form2.resources
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.exe
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.deps.json
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.runtimeconfig.json
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.dll
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\bin\Debug\net8.0-windows\AraSinav.pdb
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\ARASINAV.Form1.resources
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\ARASINAV.Form2.resources
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.Properties.Resources.resources
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.csproj.GenerateResource.cache
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.AssemblyInfoInputs.cache
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.AssemblyInfo.cs
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.csproj.CoreCompileInputs.cache
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.dll
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\refint\AraSinav.dll
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.pdb
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\AraSinav.genruntimeconfig.cache
+D:\2024-2025 BAHAR\CE - Advanced Programming\AdvancedProgrammingAraSinav\AraSinav\AraSinav\obj\Debug\net8.0-windows\ref\AraSinav.dll
